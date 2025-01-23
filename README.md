@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoaib-akhter
-- 👀 I’m interested in machine learning, data science, big data and data viz.
-- 🌱 I’m currently learning Python, R, C++, Javascript and statistics.
-- 💞️ I’m looking to collaborate on machine learning and data science projects.
+- 👀 I’m a full-stack developer with interest in machine learning, big data and data viz.
+- 🌱 I’m fully conversant with Python, R, C++, and Javascript.
+- 💞️ I’m looking to collaborate on open-source projects, esp those realated to AI/ML.
 - 📫 How to reach me: Just send a DM.
 
 <!---
